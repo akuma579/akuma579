@@ -2,43 +2,43 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:7F1D1D,70:DC2626,100:0A0A0A&height=260&section=header&text=ANAND&fontSize=100&fontColor=F59E0B&fontAlignY=40&desc=The%20Code%20is%20My%20Katana&descSize=22&descAlignY=68&descColor=DC2626&animation=fadeIn&stroke=DC2626&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:18181B,100:0A0A0A&height=220&section=header&text=anand&fontSize=80&fontColor=E5E5E5&fontAlignY=42&desc=software%20engineer%20%C2%B7%20ai%20builder%20%C2%B7%20quiet%20shipper&descSize=15&descAlignY=68&descColor=A1A1AA&animation=fadeIn" />
 
 <a href="https://github.com/akuma579">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=900&lines=%E2%9A%94+FULL-STACK+DEVELOPER;%E2%9A%94+AI+BUILDER+%7C+BACKEND+ENGINEER;%E2%9A%94+Forging+RAG+systems+and+backend+workflows;%E2%9A%94+Production-ready+code.+Zero+compromise.;%E2%9A%94+Always+training.+Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=E5E5E5&center=true&vCenter=true&width=900&lines=building+quietly.+shipping+consistently.;designing+systems+that+don%27t+need+explanation.;less+noise.+more+signal.;code+is+the+only+language+i+speak+fluently." alt="typing" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════  STATUS BADGES  ═══════════════════ -->
+<!-- ═══════════════════  STATUS  ═══════════════════ -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand2804/">
-    <img src="https://img.shields.io/badge/%E2%9A%94_Open_to_Opportunities-DC2626?style=flat-square&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/open_to_work-18181B?style=flat-square&labelColor=0A0A0A&color=E5E5E5" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Arizona,_United_States-F59E0B?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/arizona,_us-18181B?style=flat-square&labelColor=0A0A0A&color=A1A1AA" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93_MS_Software_Engineering_%40_ASU-DC2626?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/ms_software_engineering_%40_asu-18181B?style=flat-square&labelColor=0A0A0A&color=A1A1AA" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akuma579&style=flat-square&color=DC2626&labelColor=0A0A0A&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=akuma579&style=flat-square&color=E5E5E5&labelColor=0A0A0A&label=views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/akuma579?style=flat-square&color=F59E0B&labelColor=0A0A0A&label=Followers" />
+  <img src="https://img.shields.io/github/followers/akuma579?style=flat-square&color=A1A1AA&labelColor=0A0A0A&label=followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/akuma579?style=flat-square&color=DC2626&labelColor=0A0A0A&label=Stars" />
+  <img src="https://img.shields.io/github/stars/akuma579?style=flat-square&color=E5E5E5&labelColor=0A0A0A&label=stars" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
 <!-- ═══════════════════  ABOUT  ═══════════════════ -->
 
-## `⚔ dojo.entry`
+## `// about`
 
 <table align="center">
 <tr>
@@ -46,20 +46,18 @@
 
 <br/>
 
-### Greetings, I'm Anand 🥷
+I'm **Anand**, a software engineer and AI builder based in Arizona, currently studying **MS in Software Engineering at Arizona State University**.
 
-A **Full-Stack Developer** and **AI Builder** forging code from Arizona, currently sharpening my craft through the **MS in Software Engineering program at Arizona State University**.
+I care about quiet, well-engineered software. The kind that loads fast, handles edge cases gracefully, and doesn't need a pitch deck to justify its existence. Most of my work lives at the intersection of thoughtful frontends, solid backends, and practical AI.
 
-I engineer production-grade web apps and RAG-powered tools where disciplined design, battle-tested backends, and practical AI converge to solve problems that matter. Every commit is a strike, every ship is a victory.
-
-Right now I'm deep in **LLM-powered applications**, scalable **backend workflows**, and **cloud infrastructure** mastery. Open to joining crews building meaningful AI products, SaaS, and open-source arsenals.
+Right now I'm spending my time on LLM-powered tooling, scalable backend workflows, and learning cloud infrastructure at depth. If you're building something that needs to actually ship, let's talk.
 
 <br/>
 
-<kbd>&nbsp;🔭 Currently&nbsp;</kbd>&nbsp;RAG systems · backend workflows · cloud infra  
-<kbd>&nbsp;🎯 Interests&nbsp;</kbd>&nbsp;AI engineering · distributed systems · dev tooling  
-<kbd>&nbsp;💬 Ask me&nbsp;&nbsp;&nbsp;</kbd>&nbsp;React · FastAPI · LLMs · system design  
-<kbd>&nbsp;🤝 Let's build&nbsp;</kbd>&nbsp;AI web apps · SaaS · OSS
+<kbd>&nbsp;focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>&nbsp;rag systems · backend workflows · cloud infra  
+<kbd>&nbsp;interests&nbsp;</kbd>&nbsp;ai engineering · distributed systems · dev tooling  
+<kbd>&nbsp;stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>&nbsp;react · fastapi · llms · system design  
+<kbd>&nbsp;open to&nbsp;&nbsp;&nbsp;</kbd>&nbsp;ai web apps · saas · open source
 
 <br/>
 
@@ -68,11 +66,11 @@ Right now I'm deep in **LLM-powered applications**, scalable **backend workflows
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=DC2626&icon_color=F59E0B&text_color=9CA3AF&ring_color=DC2626&border_radius=10&hide_title=true&hide=contribs&card_width=320" />
+<img src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E5E5E5&icon_color=818CF8&text_color=A1A1AA&ring_color=E5E5E5&border_radius=8&hide_title=true&hide=contribs&card_width=320" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=akuma579&hide_border=true&background=0A0A0A&ring=DC2626&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=9CA3AF&dates=9CA3AF&stroke=0A0A0A&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=akuma579&hide_border=true&background=0A0A0A&ring=E5E5E5&fire=818CF8&currStreakLabel=E5E5E5&sideLabels=A1A1AA&dates=52525B&stroke=0A0A0A&border_radius=8" />
 
 <br/>
 
@@ -81,65 +79,65 @@ Right now I'm deep in **LLM-powered applications**, scalable **backend workflows
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
-<!-- ═══════════════════  TYPING BREAK  ═══════════════════ -->
+<!-- ═══════════════════  MANTRA  ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=%E3%80%8C+Discipline.+Craft.+Velocity.+%E3%80%8D" alt="Mantra" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1500&color=A1A1AA&center=true&vCenter=true&width=700&lines=//+write+less.+mean+more." alt="mantra" />
 
 </div>
 
-<!-- ═══════════════════  SKILL MAP  ═══════════════════ -->
+<!-- ═══════════════════  SKILLS  ═══════════════════ -->
 
-## `⚔ skill.map`
+## `// skills`
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
 
-**Frontend**
+**frontend**
 
 <pre>
-React / Next.js ████████████ 92
-TypeScript      ███████████░ 90
-Tailwind CSS    ██████████░░ 85
+react / next.js ████████████
+typescript      ███████████░
+tailwind        ██████████░░
 </pre>
 
 </td>
 <td align="center" width="25%">
 
-**Backend**
+**backend**
 
 <pre>
-FastAPI         ███████████░ 88
-Node / Express  ██████████░░ 85
-PostgreSQL      ██████████░░ 85
+fastapi         ███████████░
+node / express  ██████████░░
+postgresql      ██████████░░
 </pre>
 
 </td>
 <td align="center" width="25%">
 
-**AI / ML**
+**ai / ml**
 
 <pre>
-RAG Systems     ████████████ 80
-LLM Integration ████████░░░░ 78
-ChromaDB        ███████░░░░░ 72
+rag systems     ████████████
+llm integration ████████░░░░
+chromadb        ███████░░░░░
 </pre>
 
 </td>
 <td align="center" width="25%">
 
-**DevOps**
+**devops**
 
 <pre>
-Docker          █████████░░░ 75
-AWS             ███████░░░░░ 70
-CI / CD         ██████░░░░░░ 65
+docker          █████████░░░
+aws             ███████░░░░░
+ci / cd         ██████░░░░░░
 </pre>
 
 </td>
@@ -148,68 +146,70 @@ CI / CD         ██████░░░░░░ 65
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
-<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
+<!-- ═══════════════════  STACK  ═══════════════════ -->
 
-## `⚔ tech.stack`
+## `// stack`
 
 <div align="center">
 
-**Languages**
+<br/>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" /></a>
 
-**Frontend**
+<br/><br/>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark" /></a>
 
-**Backend & Database**
+<br/><br/>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,prisma,mongodb&theme=dark" /></a>
 
-**Cloud & DevOps**
+<br/><br/>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github&theme=dark" /></a>
+
+<br/>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
-<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
+<!-- ═══════════════════  WORK  ═══════════════════ -->
 
-## `⚔ battles.won`
+## `// work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <pre>
-╭─ 🤖 CourseCopilotAI ──────── 100% ─╮
-│                                     │
-│  AI course assistant with RAG,      │
-│  FastAPI, ChromaDB, Claude API,     │
-│  Next.js and JWT auth.              │
-│                                     │
-│  RAG · FastAPI · ChromaDB · Claude  │
-╰─────────────────────────────────────╯
+╭─ coursecopilot.ai ──────── shipped ─╮
+│                                      │
+│  ai course assistant built on rag,   │
+│  fastapi, chromadb, claude api,      │
+│  next.js and jwt auth.               │
+│                                      │
+│  rag · fastapi · chromadb · claude   │
+╰──────────────────────────────────────╯
 </pre>
 
 </td>
 <td width="50%" valign="top">
 
 <pre>
-╭─ ⚡ AAWebApp ─────────────── 85% ──╮
-│                                     │
-│  Agile PM platform with epics,      │
-│  stories, team workflows on         │
-│  React, Prisma, PostgreSQL, Docker. │
-│                                     │
-│  React · Prisma · PostgreSQL        │
-╰─────────────────────────────────────╯
+╭─ aawebapp ──────────────── active ──╮
+│                                      │
+│  agile pm platform with epics,       │
+│  stories, and team workflows on      │
+│  react, prisma, postgres, docker.    │
+│                                      │
+│  react · prisma · postgres           │
+╰──────────────────────────────────────╯
 </pre>
 
 </td>
@@ -218,28 +218,28 @@ CI / CD         ██████░░░░░░ 65
 <td width="50%" valign="top">
 
 <pre>
-╭─ 🏠 Lofty Morning Huddle ──── 90% ─╮
-│                                     │
-│  AI real-estate dashboard for       │
-│  lead ranking, morning summaries    │
-│  and productivity Q&A workflows.    │
-│                                     │
-│  AI · LLM · Dashboard · APIs        │
-╰─────────────────────────────────────╯
+╭─ lofty morning huddle ──── active ──╮
+│                                      │
+│  ai real-estate dashboard for        │
+│  lead ranking, daily summaries,      │
+│  and productivity q&a workflows.     │
+│                                      │
+│  ai · llm · dashboard · apis         │
+╰──────────────────────────────────────╯
 </pre>
 
 </td>
 <td width="50%" valign="top">
 
 <pre>
-╭─ 🧠 YADA Language ────────── 100% ─╮
-│                                     │
-│  Custom language with lexer,        │
-│  parser, semantic analysis,         │
-│  runtime and full test coverage.    │
-│                                     │
-│  Compiler · Lexer · Parser          │
-╰─────────────────────────────────────╯
+╭─ yada language ─────────── shipped ─╮
+│                                      │
+│  custom language with lexer,         │
+│  parser, semantic analysis,          │
+│  runtime, and full test coverage.    │
+│                                      │
+│  compiler · lexer · parser           │
+╰──────────────────────────────────────╯
 </pre>
 
 </td>
@@ -247,80 +247,96 @@ CI / CD         ██████░░░░░░ 65
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
 <!-- ═══════════════════  STATS  ═══════════════════ -->
 
-## `⚔ war.stats`
+## `// stats`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=donut&hide_border=true&bg_color=0A0A0A&title_color=DC2626&text_color=9CA3AF&border_radius=10" />
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=donut&hide_border=true&bg_color=0A0A0A&title_color=E5E5E5&text_color=A1A1AA&border_radius=8" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuma579&bg_color=0A0A0A&color=DC2626&line=F59E0B&point=DC2626&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuma579&bg_color=0A0A0A&color=E5E5E5&line=818CF8&point=E5E5E5&area=true&area_color=18181B&hide_border=true&custom_title=contribution%20activity&title_color=E5E5E5" />
+
+<br/>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
 <!-- ═══════════════════  SNAKE  ═══════════════════ -->
 
-## `⚔ contribution.kata`
+## `// contributions`
 
 <div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
 <!-- ═══════════════════  TROPHIES  ═══════════════════ -->
 
-## `⚔ trophies`
+## `// trophies`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akuma579&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akuma579&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+<br/>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
 <!-- ═══════════════════  CONNECT  ═══════════════════ -->
 
-## `⚔ comms.channel`
+## `// reach`
 
 <div align="center">
 
+<br/>
+
 <a href="https://www.linkedin.com/in/anand2804/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F59E0B&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/linkedin-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E5E5E5&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="mailto:akuma579@asu.edu">
-  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=DC2626&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E5E5E5&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="https://github.com/akuma579">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E5E5&labelColor=0A0A0A" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=900&color=DC2626&center=true&vCenter=true&width=800&lines=Let's+forge+something+legendary.;Open+to+collaboration+%E2%9A%94;Reach+out+%E2%80%94+the+forge+is+always+hot." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=800&lines=//+quiet+work%2C+honest+output.;//+if+it%27s+worth+building%2C+let%27s+build+it+right.;//+find+me+online.+i%27ll+be+shipping." />
+
+<br/>
 
 </div>
 
@@ -330,6 +346,6 @@ CI / CD         ██████░░░░░░ 65
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:7F1D1D,70:DC2626,100:0A0A0A&height=150&section=footer&text=BUILD%20FAST.%20STRIKE%20TRUE.%20SHIP%20ALWAYS.&fontSize=20&fontColor=F59E0B&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20ACTIVE&descSize=12&descAlignY=90&descColor=DC2626&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:18181B,100:0A0A0A&height=120&section=footer&text=keep%20shipping&fontSize=16&fontColor=A1A1AA&fontAlignY=75&animation=twinkling" />
 
 </div>
