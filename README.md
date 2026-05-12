@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0A0A0A,100:000000&height=240&section=header&text=Anand&fontSize=90&fontColor=F4F4F5&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=38BDF8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F172A,100:0A0A0A&height=240&section=header&text=Anand&fontSize=90&fontColor=F4F4F5&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=38BDF8&animation=fadeIn" />
 
 <a href="https://github.com/akuma579">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+RAG+systems+%26+backend+workflows;Turning+ideas+into+production-ready+apps;Always+Learning.+Always+Shipping." alt="Typing" />
@@ -276,6 +276,28 @@ CI / CD         ██████░░░░░░
   <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
+<!-- ═══════════════════  SNAKE  ═══════════════════ -->
+
+## `◆ Contribution Graph`
+
+<div align="center">
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
+</div>
+
 <!-- ═══════════════════  TROPHIES  ═══════════════════ -->
 
 ## `◆ Trophies`
@@ -284,7 +306,7 @@ CI / CD         ██████░░░░░░
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=akuma579&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=akuma579&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br/>
 
@@ -328,6 +350,6 @@ CI / CD         ██████░░░░░░
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0A0A0A,100:000000&height=140&section=footer&text=Build%20Fast.%20Ship%20Better.&fontSize=22&fontColor=F4F4F5&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20Always%20Shipping&descSize=12&descAlignY=88&descColor=38BDF8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F172A,100:0A0A0A&height=140&section=footer&text=Build%20Fast.%20Ship%20Better.&fontSize=22&fontColor=F4F4F5&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20Always%20Shipping&descSize=12&descAlignY=88&descColor=38BDF8&animation=fadeIn" />
 
 </div>
