@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-powered full-stack applications focused on RAG, productivity tools, and developer-friendly workflows.<br><br>👯 I’m looking to collaborate on<br>Open-source AI apps, SaaS platforms, hackathon projects, and full-stack web applications.<br><br>🤝 I’m looking for help with<br>Scaling backend systems, improving cloud deployments, and strengthening production-level security.<br><br>🌱 I’m currently learning<br>System design, cloud infrastructure, advanced RAG techniques, CI/CD, and secure full-stack development.<br><br>💬 Ask me about<br>React, Next.js, TypeScript, FastAPI, Node.js, PostgreSQL, Prisma, Docker, and building AI-powered apps.<br><br>⚡ Fun fact<br>I like building projects that combine practical software engineering with AI to solve real-world problems.
+🔭 I’m currently working on<br>Full-stack AI apps and RAG-based tools.<br><br>👯 I’m looking to collaborate on<br>AI web apps, SaaS projects, and open-source tools.<br><br>🤝 I’m looking for help with<br>System design, cloud deployment, and security.<br><br>🌱 I’m currently learning<br>Advanced RAG, CI/CD, Docker, and cloud infrastructure.<br><br>💬 Ask me about<br>React, Next.js, TypeScript, FastAPI, Node.js, PostgreSQL, Prisma, Docker, and AI apps.<br><br>⚡ Fun fact<br>I love turning ideas into polished full-stack products.
 
 
 ## 🌐 Socials:
