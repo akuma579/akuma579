@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,30:1E1B4B,55:4338CA,80:1E1B4B,100:0A0A0A&height=240&section=header&text=Anand&fontSize=90&fontColor=E0E7FF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=A5B4FC&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0A0A0A,100:000000&height=240&section=header&text=Anand&fontSize=90&fontColor=F4F4F5&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=38BDF8&animation=fadeIn" />
 
 <a href="https://github.com/akuma579">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+RAG+systems+%26+backend+workflows;Turning+ideas+into+production-ready+apps;Always+Learning.+Always+Shipping." alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+RAG+systems+%26+backend+workflows;Turning+ideas+into+production-ready+apps;Always+Learning.+Always+Shipping." alt="Typing" />
 </a>
 
 </div>
@@ -16,20 +16,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand2804/">
-    <img src="https://img.shields.io/badge/Open_to_Opportunities-818CF8?style=flat-square&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-38BDF8?style=flat-square&labelColor=0A0A0A" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Arizona,_United_States-FAFAFA?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Arizona,_United_States-F4F4F5?style=flat-square&labelColor=0A0A0A" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MS_Software_Engineering_%40_ASU-818CF8?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/MS_Software_Engineering_%40_ASU-38BDF8?style=flat-square&labelColor=0A0A0A" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akuma579&style=flat-square&color=818CF8&labelColor=0A0A0A&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=akuma579&style=flat-square&color=38BDF8&labelColor=0A0A0A&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/akuma579?style=flat-square&color=FAFAFA&labelColor=0A0A0A&label=Followers" />
+  <img src="https://img.shields.io/github/followers/akuma579?style=flat-square&color=F4F4F5&labelColor=0A0A0A&label=Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/akuma579?style=flat-square&color=818CF8&labelColor=0A0A0A&label=Stars" />
+  <img src="https://img.shields.io/github/stars/akuma579?style=flat-square&color=38BDF8&labelColor=0A0A0A&label=Stars" />
 </p>
 
 <div align="center">
@@ -68,7 +68,7 @@ Right now I'm focused on shipping **LLM-powered applications**, engineering scal
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=akuma579&hide_border=true&background=0A0A0A&ring=FAFAFA&fire=818CF8&currStreakLabel=818CF8&sideLabels=A1A1AA&dates=52525B&stroke=0A0A0A&border_radius=8" />
+<img src="https://streak-stats.demolab.com?user=akuma579&hide_border=true&background=0A0A0A&ring=F4F4F5&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=A1A1AA&dates=52525B&stroke=0A0A0A&border_radius=8" />
 
 <br/>
 
@@ -84,7 +84,7 @@ Right now I'm focused on shipping **LLM-powered applications**, engineering scal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1400&color=A1A1AA&center=true&vCenter=true&width=700&lines=%E2%9D%AF+Write+Less.+Mean+More.+%E2%9D%AF" alt="Mantra" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=1400&color=A1A1AA&center=true&vCenter=true&width=700&lines=%E2%9D%AF+Write+Less.+Mean+More.+%E2%9D%AF" alt="Mantra" />
 
 </div>
 
@@ -94,17 +94,13 @@ Right now I'm focused on shipping **LLM-powered applications**, engineering scal
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&icon_color=818CF8&text_color=A1A1AA&ring_color=818CF8&border_radius=8" />
-</a>
-&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&border_radius=8&langs_count=8" />
-</a>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akuma579&theme=github_dark" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akuma579&theme=github_dark" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akuma579&theme=github_dark" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuma579&bg_color=0A0A0A&color=FAFAFA&line=818CF8&point=818CF8&area=true&area_color=1E1B4B&hide_border=true&custom_title=Contribution%20Activity&title_color=FAFAFA" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuma579&bg_color=0A0A0A&color=F4F4F5&line=38BDF8&point=38BDF8&area=true&area_color=0C4A6E&hide_border=true&custom_title=Contribution%20Activity&title_color=F4F4F5" />
 
 </div>
 
@@ -280,28 +276,6 @@ CI / CD         ██████░░░░░░
   <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
 </div>
 
-<!-- ═══════════════════  SNAKE  ═══════════════════ -->
-
-## `◆ Contribution Graph`
-
-<div align="center">
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27272A&height=1" width="100%" />
-</div>
-
 <!-- ═══════════════════  TROPHIES  ═══════════════════ -->
 
 ## `◆ Trophies`
@@ -329,20 +303,20 @@ CI / CD         ██████░░░░░░
 <br/>
 
 <a href="https://www.linkedin.com/in/anand2804/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=818CF8&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="mailto:akuma579@asu.edu">
-  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FAFAFA&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F4F4F5&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="https://github.com/akuma579">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FAFAFA&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F4F4F5&labelColor=0A0A0A" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Let's+build+something+meaningful.;Open+to+collaboration+and+great+ideas.;Reach+out+%E2%80%94+I'm+always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Let's+build+something+meaningful.;Open+to+collaboration+and+great+ideas.;Reach+out+%E2%80%94+I'm+always+shipping." />
 
 <br/>
 
@@ -354,6 +328,6 @@ CI / CD         ██████░░░░░░
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,30:1E1B4B,55:4338CA,80:1E1B4B,100:0A0A0A&height=140&section=footer&text=Build%20Fast.%20Ship%20Better.&fontSize=22&fontColor=E0E7FF&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20Always%20Shipping&descSize=12&descAlignY=88&descColor=A5B4FC&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0A0A0A,100:000000&height=140&section=footer&text=Build%20Fast.%20Ship%20Better.&fontSize=22&fontColor=F4F4F5&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20Always%20Shipping&descSize=12&descAlignY=88&descColor=38BDF8&animation=fadeIn" />
 
 </div>
