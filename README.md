@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1E1B4B,100:0A0A0A&height=240&section=header&text=Anand&fontSize=90&fontColor=FAFAFA&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=818CF8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,30:1E1B4B,55:4338CA,80:1E1B4B,100:0A0A0A&height=240&section=header&text=Anand&fontSize=90&fontColor=E0E7FF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=68&descColor=A5B4FC&animation=fadeIn" />
 
 <a href="https://github.com/akuma579">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+full-stack+products;Engineering+RAG+systems+%26+backend+workflows;Turning+ideas+into+production-ready+apps;Always+Learning.+Always+Shipping." alt="Typing" />
@@ -94,9 +94,13 @@ Right now I'm focused on shipping **LLM-powered applications**, engineering scal
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&icon_color=818CF8&text_color=A1A1AA&ring_color=818CF8&border_radius=8" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&icon_color=818CF8&text_color=A1A1AA&ring_color=818CF8&border_radius=8" />
+</a>
 &nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&border_radius=8&langs_count=8" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FAFAFA&text_color=A1A1AA&border_radius=8&langs_count=8" />
+</a>
 
 <br/><br/>
 
@@ -350,6 +354,6 @@ CI / CD         ██████░░░░░░
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1E1B4B,100:0A0A0A&height=140&section=footer&text=Build%20Fast.%20Ship%20Better.&fontSize=22&fontColor=FAFAFA&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20Always%20Shipping&descSize=12&descAlignY=88&descColor=818CF8&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,30:1E1B4B,55:4338CA,80:1E1B4B,100:0A0A0A&height=140&section=footer&text=Build%20Fast.%20Ship%20Better.&fontSize=22&fontColor=E0E7FF&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20Always%20Shipping&descSize=12&descAlignY=88&descColor=A5B4FC&animation=twinkling" />
 
 </div>
