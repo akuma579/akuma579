@@ -1,38 +1,44 @@
+<!-- ═══════════════════  HEADER  ═══════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:1a1033,100:0D1117&height=220&section=header&text=ANAND&fontSize=90&fontColor=A78BFA&fontAlignY=55&desc=Full-Stack%20Developer%20·%20AI%20Builder%20·%20Backend%20Engineer&descSize=16&descAlignY=75&descColor=22D3EE&animation=blinking&stroke=A78BFA&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:7F1D1D,70:DC2626,100:0A0A0A&height=260&section=header&text=ANAND&fontSize=100&fontColor=F59E0B&fontAlignY=40&desc=The%20Code%20is%20My%20Katana&descSize=22&descAlignY=68&descColor=DC2626&animation=fadeIn&stroke=DC2626&strokeWidth=2" />
 
 <a href="https://github.com/akuma579">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;Building+AI-powered+full-stack+products;Engineering+RAG+systems+%26+backend+workflows;Turning+ideas+into+production-ready+apps;Always+learning.+Always+shipping+%E2%96%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=900&lines=%E2%9A%94+FULL-STACK+DEVELOPER;%E2%9A%94+AI+BUILDER+%7C+BACKEND+ENGINEER;%E2%9A%94+Forging+RAG+systems+and+backend+workflows;%E2%9A%94+Production-ready+code.+Zero+compromise.;%E2%9A%94+Always+training.+Always+shipping." alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ───────────────  INTRO  ─────────────── -->
+<!-- ═══════════════════  STATUS BADGES  ═══════════════════ -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand2804/">
-    <img src="https://img.shields.io/badge/Open_to_Opportunities-A78BFA?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/%E2%9A%94_Open_to_Opportunities-DC2626?style=flat-square&labelColor=0A0A0A" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Arizona,_United_States-22D3EE?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Arizona,_United_States-F59E0B?style=flat-square&labelColor=0A0A0A" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MS_Software_Engineering_%40_ASU-A78BFA?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_MS_Software_Engineering_%40_ASU-DC2626?style=flat-square&labelColor=0A0A0A" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akuma579&style=flat-square&color=A78BFA&labelColor=0D1117&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=akuma579&style=flat-square&color=DC2626&labelColor=0A0A0A&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/akuma579?style=flat-square&color=22D3EE&labelColor=0D1117&label=Followers" />
+  <img src="https://img.shields.io/github/followers/akuma579?style=flat-square&color=F59E0B&labelColor=0A0A0A&label=Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/akuma579?style=flat-square&color=A78BFA&labelColor=0D1117&label=Stars" />
+  <img src="https://img.shields.io/github/stars/akuma579?style=flat-square&color=DC2626&labelColor=0A0A0A&label=Stars" />
 </p>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ about`
+<!-- ═══════════════════  ABOUT  ═══════════════════ -->
+
+## `⚔ dojo.entry`
 
 <table align="center">
 <tr>
@@ -40,20 +46,20 @@
 
 <br/>
 
-### Hey, I'm Anand 👋
+### Greetings, I'm Anand 🥷
 
-I'm a **Full-Stack Developer** and **AI Builder** based in Arizona, pursuing an **MS in Software Engineering at Arizona State University**.
+A **Full-Stack Developer** and **AI Builder** forging code from Arizona, currently sharpening my craft through the **MS in Software Engineering program at Arizona State University**.
 
-I design and ship production-ready web apps and RAG-powered tools where thoughtful design, solid backend systems, and practical AI come together to solve real problems for real users.
+I engineer production-grade web apps and RAG-powered tools where disciplined design, battle-tested backends, and practical AI converge to solve problems that matter. Every commit is a strike, every ship is a victory.
 
-Right now I'm focused on shipping **LLM-powered applications**, engineering scalable **backend workflows**, and going deeper into **cloud infrastructure**. Always open to collaborating on meaningful AI web apps, SaaS products, and open-source tools.
+Right now I'm deep in **LLM-powered applications**, scalable **backend workflows**, and **cloud infrastructure** mastery. Open to joining crews building meaningful AI products, SaaS, and open-source arsenals.
 
 <br/>
 
 <kbd>&nbsp;🔭 Currently&nbsp;</kbd>&nbsp;RAG systems · backend workflows · cloud infra  
 <kbd>&nbsp;🎯 Interests&nbsp;</kbd>&nbsp;AI engineering · distributed systems · dev tooling  
 <kbd>&nbsp;💬 Ask me&nbsp;&nbsp;&nbsp;</kbd>&nbsp;React · FastAPI · LLMs · system design  
-<kbd>&nbsp;🤝 Let's build&nbsp;</kbd>&nbsp;AI web apps · SaaS projects · OSS
+<kbd>&nbsp;🤝 Let's build&nbsp;</kbd>&nbsp;AI web apps · SaaS · OSS
 
 <br/>
 
@@ -62,11 +68,11 @@ Right now I'm focused on shipping **LLM-powered applications**, engineering scal
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=8B949E&ring_color=A78BFA&border_radius=10&hide_title=true&hide=contribs&card_width=320" />
+<img src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=DC2626&icon_color=F59E0B&text_color=9CA3AF&ring_color=DC2626&border_radius=10&hide_title=true&hide=contribs&card_width=320" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=akuma579&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=8B949E&dates=8B949E&stroke=0D1117&border_radius=10&card_width=320&hide_longest_streak=true" />
+<img src="https://streak-stats.demolab.com?user=akuma579&hide_border=true&background=0A0A0A&ring=DC2626&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=9CA3AF&dates=9CA3AF&stroke=0A0A0A&border_radius=10" />
 
 <br/>
 
@@ -74,20 +80,21 @@ Right now I'm focused on shipping **LLM-powered applications**, engineering scal
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ init.yaml`
+<!-- ═══════════════════  TYPING BREAK  ═══════════════════ -->
 
-```yaml
-id:       "Anand · akuma579"
-role:     "Full-Stack Developer · AI Builder · Backend Engineer"
-program:  "MS in Software Engineering @ Arizona State University"
-status:   "ALWAYS_SHIPPING ▓▓▓▓▓▓▓▓░░ 80%"
-```
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=%E3%80%8C+Discipline.+Craft.+Velocity.+%E3%80%8D" alt="Mantra" />
 
-## `⬡ skill.map`
+</div>
+
+<!-- ═══════════════════  SKILL MAP  ═══════════════════ -->
+
+## `⚔ skill.map`
 
 <div align="center">
 <table>
@@ -140,47 +147,41 @@ CI / CD         ██████░░░░░░ 65
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ tech.stack`
+<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
+
+## `⚔ tech.stack`
 
 <div align="center">
 
-**— Languages —**
+**Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A78BFA)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=22D3EE)
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" /></a>
 
-**— Frontend —**
+**Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=A78BFA)
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark" /></a>
 
-**— Backend & Database —**
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=aaaaaa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=cccccc)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,prisma,mongodb&theme=dark" /></a>
 
-**— Cloud & DevOps —**
+**Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github&theme=dark" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ projects.log`
+<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
+
+## `⚔ battles.won`
 
 <table>
 <tr>
@@ -245,62 +246,90 @@ CI / CD         ██████░░░░░░ 65
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ github.stats`
+<!-- ═══════════════════  STATS  ═══════════════════ -->
+
+## `⚔ war.stats`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma579&layout=donut&hide_border=true&bg_color=0A0A0A&title_color=DC2626&text_color=9CA3AF&border_radius=10" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuma579&bg_color=0D1117&color=A78BFA&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution+Activity" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akuma579&bg_color=0A0A0A&color=DC2626&line=F59E0B&point=DC2626&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ trophies`
+<!-- ═══════════════════  SNAKE  ═══════════════════ -->
+
+## `⚔ contribution.kata`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akuma579&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/akuma579/akuma579/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
 
-## `⬡ connect`
+<!-- ═══════════════════  TROPHIES  ═══════════════════ -->
+
+## `⚔ trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akuma579&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:F59E0B,100:DC2626&height=2" width="100%" />
+</div>
+
+<!-- ═══════════════════  CONNECT  ═══════════════════ -->
+
+## `⚔ comms.channel`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anand2804/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F59E0B&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="mailto:akuma579@asu.edu">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=DC2626&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="https://github.com/akuma579">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0A0A0A" />
 </a>
 
 <br/><br/>
 
-<samp>
-
-_"Build fast. Break nothing. Ship anyway."_ &nbsp;·&nbsp; **akuma579**
-
-</samp>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=900&color=DC2626&center=true&vCenter=true&width=800&lines=Let's+forge+something+legendary.;Open+to+collaboration+%E2%9A%94;Reach+out+%E2%80%94+the+forge+is+always+hot." />
 
 </div>
 
 <br/>
 
+<!-- ═══════════════════  FOOTER  ═══════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1a1033,100:0D1117&height=130&section=footer&text=BUILD+FAST.+SHIP+BETTER.&fontSize=22&fontColor=A78BFA&fontAlignY=65&desc=akuma579+·+ASU+·+ACTIVE&descSize=12&descAlignY=85&descColor=22D3EE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:7F1D1D,70:DC2626,100:0A0A0A&height=150&section=footer&text=BUILD%20FAST.%20STRIKE%20TRUE.%20SHIP%20ALWAYS.&fontSize=20&fontColor=F59E0B&fontAlignY=65&desc=akuma579%20%C2%B7%20ASU%20%C2%B7%20ACTIVE&descSize=12&descAlignY=90&descColor=DC2626&animation=twinkling" />
 
 </div>
