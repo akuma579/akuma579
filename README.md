@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<!-- ░░░ ANIMATED SOCIAL BADGES ░░░ -->
+<!-- ░░░ SOCIAL BADGES ░░░ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand2804/)
 &nbsp;
@@ -42,8 +42,6 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="32" /> &nbsp;`who am i`
 
@@ -89,7 +87,7 @@ const anand = {
 <br/>
 
 <a href="https://github.com/akuma579">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&ring_color=F75C7E&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akuma579&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&ring_color=F75C7E&include_all_commits=true&rank_icon=github" />
 </a>
 &nbsp;
 <a href="https://github.com/akuma579">
@@ -123,111 +121,40 @@ const anand = {
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-</a>
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-</a>
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-</a>
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-</a>
-<br><b>Java</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-</a>
-<br><b>React</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-</a>
-<br><b>Docker</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-</a>
-<br><b>AWS</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-</a>
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-</a>
-<br><b>REST API</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
-</a>
-<br><b>GraphQL</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-</a>
-<br><b>Nginx</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-</a>
-<br><b>MySQL</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
-</a>
-<br><b>Prettier</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="48" height="48" />
-</a>
-<br><b>Webpack</b>
-</td>
-</tr>
-</table>
+**`languages:`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,py,java&perline=4&theme=dark" /></a>
 
+<br/><br/>
+
+**`frontend:`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=6&theme=dark" /></a>
+
+<br/><br/>
+
+**`backend:`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,graphql&perline=4&theme=dark" /></a>
+
+<br/><br/>
+
+**`databases:`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis&perline=4&theme=dark" /></a>
+
+<br/><br/>
+
+**`cloud_and_devops:`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,githubactions,linux&perline=8&theme=dark" /></a>
+
+<br/><br/>
+
+**`ai_and_ml:`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2&theme=dark" /></a>
 <br/>
-
-**`// more tools in the arsenal`**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs,tailwind,vite,fastapi,express,nodejs&theme=dark" /></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,pytorch,tensorflow&theme=dark" /></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=gcp,vercel,git,githubactions,linux,bash&theme=dark" /></a>
-
-<br/>
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FFD700?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -255,30 +182,26 @@ const anand = {
 
 <br/><br/>
 
-<a href="https://github.com/akuma579/FRIDAY">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=FRIDAY&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
-</a>
-&nbsp;
 <a href="https://github.com/akuma579/Lofty-Morning-Huddle">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=Lofty-Morning-Huddle&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
 </a>
-
-<br/><br/>
-
+&nbsp;
 <a href="https://github.com/akuma579/SER502-Yada-Team14">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=SER502-Yada-Team14&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
 </a>
-&nbsp;
+
+<br/><br/>
+
 <a href="https://github.com/akuma579/ajaia-docs">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=ajaia-docs&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
+</a>
+&nbsp;
+<a href="https://github.com/akuma579/Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/akuma579/Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
-</a>
-&nbsp;
 <a href="https://github.com/akuma579/-SER-594-Assignment-AI-Assisted-Debugging-Test-Engineering">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akuma579&repo=-SER-594-Assignment-AI-Assisted-Debugging-Test-Engineering&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=A855F7&text_color=a0a0a0&show_owner=true" />
 </a>
@@ -313,10 +236,6 @@ const anand = {
 
 <a href="https://github.com/dgupta98/NueroChallange">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dgupta98&repo=NueroChallange&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F75C7E&text_color=a0a0a0&show_owner=true" />
-</a>
-&nbsp;
-<a href="https://github.com/JoblineX/jd-brief-engine">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoblineX&repo=jd-brief-engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F75C7E&text_color=a0a0a0&show_owner=true" />
 </a>
 
 </div>
